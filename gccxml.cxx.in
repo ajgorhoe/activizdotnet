@@ -5,7 +5,7 @@ namespace _cable_
 {
   const char* const package = "Kitware.VTK";
   const char* const package_version = "@VTK_MAJOR_VERSION@.@VTK_MINOR_VERSION@.@VTK_BUILD_VERSION@";
-  const char* const group = "vtk@kit@";
+  const char* const group = "@module@";
 
   namespace wrappers
   {
