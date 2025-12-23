@@ -1,6 +1,8 @@
 
 # ActiViz - Modifications for Use with IGLib
 
+See also ***[VTK / ActiViz pages on wiki.IGLib](https://github.com/ajgorhoe/wiki.IGLib/blob/main/IGLib/developmentareas/graphics3d/VtkComparison/VtkStateAndComparison.md)*** (private repository).
+
 This contains modifications / additions to the ActiViz repository that are used by the IGLib (the Investigative Generic Library) and its derivatives.
 
 Information about branches used by IGLib:
